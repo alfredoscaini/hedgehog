@@ -30,3 +30,6 @@ The class that manages the directional controller and any buttons.  The idea is 
 
 ### canvas.js
 The code that manages the canvas element.
+
+## Original Source
+Foundation Game Design with HTML5 and JavaScript (https://www.apress.com/gp/book/9781430247166).  I used this book to learn how to do this, but used classes instead of procedural code as outlined in the book (you can tell as my code is a little buggy in some areas).
